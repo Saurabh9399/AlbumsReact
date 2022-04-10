@@ -1,0 +1,40 @@
+.list {
+    width: 400px;
+    margin: 5px;
+    background-color: rgb(248, 248, 248);
+    height: auto;
+    text-align: center;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    margin-top: 2%;
+    padding: 20px;
+  }
+  .list h3 {
+    color: rgb(23, 153, 228);
+  }
+  button {
+    margin-top: 5px;
+  }
+  .far {
+    margin-right: 5px;
+  }
+  .btn-right {
+    margin-left: 10px;
+    background-color: rgb(163, 110, 223);
+    color: white;
+    border-radius: 5px;
+  }
+  .btn-left {
+    border-radius: 5px;
+  }
+  .btn-left :hover {
+    background-color: rgb(163, 110, 223);
+  }
+  .btn-right:hover {
+    background-color: rgb(124, 120, 129);
+  }
+  .fa-trash-alt {
+    color: rgb(207, 0, 0);
+  }
+  .fa-edit {
+    color: rgb(67, 0, 129);
+  }
