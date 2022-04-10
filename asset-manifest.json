@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-Albums/static/css/main.df431865.css",
-    "main.js": "/React-Albums/static/js/main.f6a20cf4.js",
-    "static/js/787.abdd7f1c.chunk.js": "/React-Albums/static/js/787.abdd7f1c.chunk.js",
-    "index.html": "/React-Albums/index.html",
-    "main.df431865.css.map": "/React-Albums/static/css/main.df431865.css.map",
-    "main.f6a20cf4.js.map": "/React-Albums/static/js/main.f6a20cf4.js.map",
-    "787.abdd7f1c.chunk.js.map": "/React-Albums/static/js/787.abdd7f1c.chunk.js.map"
+    "main.css": "/AlbumsReact/static/css/main.df431865.css",
+    "main.js": "/AlbumsReact/static/js/main.df5c5430.js",
+    "static/js/787.abdd7f1c.chunk.js": "/AlbumsReact/static/js/787.abdd7f1c.chunk.js",
+    "index.html": "/AlbumsReact/index.html",
+    "main.df431865.css.map": "/AlbumsReact/static/css/main.df431865.css.map",
+    "main.df5c5430.js.map": "/AlbumsReact/static/js/main.df5c5430.js.map",
+    "787.abdd7f1c.chunk.js.map": "/AlbumsReact/static/js/787.abdd7f1c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.df431865.css",
-    "static/js/main.f6a20cf4.js"
+    "static/js/main.df5c5430.js"
   ]
 }
