@@ -66,7 +66,7 @@ const App = () => {
   console.log(users);
   return (
     <div className="App">
-      <h3>Albums list React app</h3>
+      <h3 style={{fontSize:'2rem', color:'navy'}}>Albums list React app</h3>
 
       <br />
       <AddUser onAdd={onAdd} />

@@ -10,9 +10,9 @@ const AddUser = ({ onAdd }) => {
   return (
     <div>
       <form onSubmit={handleOnSubmit}>
-        <h3>Add Albums</h3>
-        <input placeholder="Albums Name" name="name" />
-        <button onSubmit={handleOnSubmit}>Add</button>
+        <h3 style={{fontSize:'1.5rem', color: 'grey'}}>Add Albums</h3>
+        <input style={{padding:'0.5rem', margin:'1rem'}} placeholder="Albums Name" name="name" />
+        <button style={{padding:'0.4rem 1rem', margin:'1rem'}} onSubmit={handleOnSubmit}>Add</button>
         <hr />
       </form>
     </div>
